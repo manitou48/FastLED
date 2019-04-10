@@ -3,6 +3,9 @@
 
 IMPORTANT NOTE: For AVR based systems, avr-gcc 4.8.x is supported and tested.  This means Arduino 1.6.5 and later.
 
+## Teensy 4 beta testing branch 
+see
+https://forum.pjrc.com/threads/54711-Teensy-4-0-First-Beta-Test?p=202885&viewfull=1#post202885
 
 FastLED 3.2
 ===========
