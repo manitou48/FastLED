@@ -25,6 +25,8 @@
 #include "platforms/arm/d21/fastled_arm_d21.h"
 #elif defined(__SAMD51G19A__)
 #include "platforms/arm/d51/fastled_arm_d51.h"
+#elif defined(__IMXRT1052__) || defined(__IMXRT1062__)
+#include "platforms/arm/t4/fastled_arm_t4.h"
 #elif defined(ESP8266)
 #include "platforms/esp/8266/fastled_esp8266.h"
 #elif defined(ESP32)
